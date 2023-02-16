@@ -1,0 +1,243 @@
+/* G3 Architects */
+.section-title{
+    background: rgba(255, 144, 14, 0.1);
+    width: 1920px;
+    height: 1322px;
+}
+*{
+    ont-family: 'Work Sans', sans-serif;
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+nav ul{
+    display: flex;
+     
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+.nav-title{
+    font-weight: 700;
+    font-size: 45px;
+   
+    margin-left: 228px;
+}
+.container{
+    text-align: center;
+     
+}
+.title{
+    font-weight: 700;
+    font-size: 64px;
+     margin-top: 205px;
+    color: #131313;
+}
+.info{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 28px;
+  
+}
+.btn-primary{
+    padding: 20px 25px;
+    font-weight: 600;
+font-size: 20px;
+background: #FF900E;
+border-radius: 8px;
+color: #FFFFFF;
+margin-top: 32px;
+margin-bottom: 50px;
+ 
+}
+.banner{
+    width: 1440px;
+    height: 700px;
+     border-radius: 8px;
+     margin-left: 240px;
+     margin right: 240px;
+     margin bottom: 45px;
+     
+} 
+ 
+.div-title{
+    margin-left: 301px;
+}
+
+       
+.row{
+    margin-top: 130px;
+    display: flex;
+    gap: 24px;
+    margin-bottom: 24px;
+ 
+}
+.row-second{
+    display: flex;
+    gap: 24px;
+    
+}
+
+.qucik{
+    color: #727272;
+    font-size: 45px;
+    font-weight: 500px;
+ }
+ .of-our{
+    color: #131313;
+    font-size: 45px;
+    font-weight: 700px;
+ }
+ 
+ .features{
+    color: #FF900E;
+    font-size: 45px;
+    font-weight: 700px;
+ }
+ .heading{
+    margin-bottom: 24px;
+ }
+ .info{
+    margin-bottom: 32px;
+ }
+ .design{
+    font-weight: 700;
+    font-size: 45px;
+    color: #131313;
+    border-left: solid #FF900E;
+ }
+ .design-info{
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+ }
+ section{
+    display: flex;
+    margin-top: 130px;
+    margin-left: 240px;
+ }
+  .design-title{
+    font-weight: 600;
+    font-size: 20px;
+    color: #131313;
+  }
+  .desing-container{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    padding: 30px 30px;
+  }
+  .img-design{
+    margin-left: 54px;
+  }
+ .btn{
+    width: 342px;
+    height: 200px;
+    color: #FFFFFF;
+     
+     margin-left: 96px;
+    margin right: 698px;
+    margin top: 859px;
+    padding: 46px 42px 45px 42px;
+    background: #FF900E;
+    border-radius: 8px; 
+    font-weight: 500;
+    font-size: 25px;
+
+ }
+ span{
+    font-weight: 700;
+    font-size: 65px;
+ }
+ .fact h2{
+    font-weight: 700;
+font-size: 45px;
+color: #131313;
+margin bottom: 24px;
+ margin left: 240px;
+ }
+ p{
+    font-weight: 400;
+font-size: 16px;
+color: #727272;
+ }
+ .icon-container{
+sdisplay: flex;
+ } 
+.icon  {
+    width: 241.83px;
+    height: 341.83px;
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+    margin-top: 100px;
+    margin-bottom: 180px;
+    
+    
+}
+.thumbleing{
+    width: 45.22px;
+height: 45.22px;
+margin-left: 79.92px;
+margin-top: 45.92px;
+margin-bottom: 10px;
+} 
+.fifty-four{
+    font-weight: 600;
+font-size: 45px;
+color: #424242;
+text-align: center;
+}
+.icon-title{
+    font-weight: 600;
+font-size: 20px;
+color: #727272;
+text-align: center;
+margin-top: 9px;
+}
+ .spon-title{
+    font-weight: 700;
+font-size: 45px;
+color: #131313;
+margin-top: 180px;
+margin-left: 797px;
+ margin-right: 807px;
+ 
+ }
+  
+ 
+ .spon-info{
+    font-weight: 400;
+font-size: 16px;
+text-align: center;
+color: #727272;
+margin-top: 24px;
+margin-left: 689px;
+margin-right: 689px;
+ }
+ .img-sponcor{
+    display: flex;
+    gap: 155px;
+    margin-top: 55px;
+    margin-left: 240px;
+ }
+ footer{
+    width: 1440px;
+height: 100px;
+    font-weight: 400;
+font-size: 20px;
+text-align: center;
+color: #424242;
+padding: 39px 410px;
+background: #FFF4E7;
+border-radius: 8px;
+margin-top: 127px;
+margin-right: 240px;
+margin-left: 240px;
+margin-bottom: 216px;
+ }
+
+ 
